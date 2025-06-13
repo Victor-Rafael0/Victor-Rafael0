@@ -4,9 +4,14 @@
 
 ---
 
-Me chamo Victor Rafael, tenho 17 anos e sou natural de Salvador, Bahia. Atualmente, estou cursando **Desenvolvimento de Sistemas no SENAI Bahia**, focado em construir uma carreira sólida como **Desenvolvedor Back-end**. Minha jornada é impulsionada pela paixão por aprimorar e adquirir novas habilidades, tanto técnicas quanto profissionais. Busco incessantemente construir soluções eficientes e inovadoras, baseadas nos desafios que me são apresentados.
+"Olá! Sou Victor Rafael, desenvolvedor Back-end (17 anos) de Salvador, Bahia. 
 
-Tenho grande interesse em compartilhar conhecimento para inspirar mais pessoas a se juntarem à área de tecnologia. Por isso, uma vez por semana, compartilharei **READMEs e guias** sobre as tecnologias que aprendi ao longo do tempo.
+Com foco em Java Spring Boot, bancos de dados e APIs, estou sempre buscando aplicar minhas habilidades em projetos desafiadores e construir soluções eficientes e inovadoras.  Sou motivado pela resolução de problemas e pelo aprendizado contínuo. 
+
+Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI Bahia. 
+
+Aqui no GitHub, você encontrará meus projetos e, uma vez por semana, compartilharei READMEs e guias sobre as tecnologias que aprendi.
+
 
 ---
 
