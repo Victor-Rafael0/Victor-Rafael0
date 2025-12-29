@@ -68,4 +68,5 @@ Sou movido por **resolução de problemas**, **boas práticas** e **aprendizado 
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Victor-Rafael0&icon=5&color=12)
+![Profile Views](https://komarev.com/ghpvc/?username=Victor-Rafael0&color=red&style=flat)
+
